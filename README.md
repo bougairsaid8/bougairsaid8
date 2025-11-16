@@ -14,7 +14,7 @@
 - 🌱 Learning **TypeScript, API Architecture & DevOps Basics**
 - 👯 Open to collaborate on **Full-Stack Applications**
 - 💬 Ask me about **React, JavaScript, Laravel, TailwindCSS**
-- 📫 Reach me at: **saidbougair03@gmail.com  && bougairsaid@gmail.com**
+- 📫 Reach me at: **saidbougair03@gmail.com  && bougairsaid8@gmail.com**
 - ⚡ Fun fact: **I turn coffee into clean code.**
 
 ---
