@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bougair Said</h1>
-<h3 align="center">Full-Stack Developer | Passionate About Building Modern Web Apps</h3>
+<h3 align="center">Full-Stack Developer | Building Modern Web Applications</h3>
 
 <p align="center">
   <a href="https://github.com/bougairsaid8">
@@ -10,49 +10,81 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Modern Web Projects with React & Laravel**
-- 🌱 I’m currently learning **TypeScript, Backend APIs & DevOps Basics**
-- 👯 I’m looking to collaborate on **Full-Stack Web Applications**
+- 🔭 I’m currently working on **React, Laravel & Modern Web Projects**
+- 🌱 Learning **TypeScript, API Architecture & DevOps Basics**
+- 👯 Open to collaborate on **Full-Stack Applications**
 - 💬 Ask me about **React, JavaScript, Laravel, TailwindCSS**
-- 📫 Reach me at: **yourmail@example.com**
-- ⚡ Fun fact: **I turn coffee into code.**
+- 📫 Reach me at: **saidbougair03@gmail.com  && bougairsaid@gmail.com**
+- ⚡ Fun fact: **I turn coffee into clean code.**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
+
 <a href="https://linkedin.com/in/hh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://twitter.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://instagram.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://facebook.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://leetcode.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+<a href="https://facebook.com/hh" target="_blank"><img src="https://cdn.simpleicons.org/facebook" height="40"/></a>
+<a href="https://leetcode.com/hh" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="40"/></a>
+
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,laravel,mysql,python,git,github,linux,docker,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,laravel,mysql,python,git,github,figma,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
+## 🚀 Featured Projects
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=bougairsaid8&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bougairsaid8&theme=tokyonight" height="160px"/>
+### 🔹 Daily Quest – Gamified Productivity Cards
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bougairsaid8/DailyQuest/main/preview.png" width="600" alt="Daily Quest preview"/>
+</p>
 
-</div>
+📌 *React + Tailwind | Product Design | UX/UI*  
+🔗 **Repo:** https://github.com/bougairsaid8/DailyQuest  
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **Project 1** – Modern React App (UI/UX + API Integration)  
-- 🔹 **Project 2** – Full-Stack Laravel + React Platform  
-- 🔹 **Project 3** – API + Authentication System  
-> *(أضف روابط المشاريع من GitHub هنا باش يبانو بشكل احترافي)*
+### 🔹 Student Support Cards – OFPPT Project
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bougairsaid8/StudentSupportCards/main/preview.png" width="600" alt="Student Cards preview"/>
+</p>
+
+📌 *Design + PDF System + Business Model*  
+🔗 **Repo:** https://github.com/bougairsaid8/StudentSupportCards
+
+---
+
+### 🔹 React Movies – Modern UI + API Integration
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bougairsaid8/React-Movies/main/preview.png" width="600" alt="React Movies preview"/>
+</p>
+
+📌 *React + Fetch API + Responsive UI*  
+🔗 **Repo:** https://github.com/bougairsaid8/React-Movies
+
+---
+
+### 🔹 Tip Calculator
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bougairsaid8/TipCalculator01/main/preview.png" width="600" alt="Tip Calculator preview"/>
+</p>
+
+📌 *JavaScript | Clean UI*  
+🔗 **Repo:** https://github.com/bougairsaid8/TipCalculator01
+
+---
+
+### 🔹 TP Git Projects
+📌 Git / GitHub / Branching / Merge practice  
+🔗 **Repos:** https://github.com/bougairsaid8?tab=repositories
 
 ---
 
