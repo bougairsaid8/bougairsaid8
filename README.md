@@ -44,7 +44,7 @@
 
 ### 🔹 LFRAJA – Browse Movies & TV Series
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bougairsaid8/DailyQuest/main/preview.png" width="600" alt="Daily Quest preview"/>
+  <img src="./Media/LFRAJA.png" width="600" alt="LFRAJA preview"/>
 </p>
 
 📌 *React + Vite| Product Design | UX/UI | TMDB API*  
