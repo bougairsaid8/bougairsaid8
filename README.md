@@ -42,49 +42,14 @@
 ## 🚀 Featured Projects
 ---
 
-### 🔹 Daily Quest – Gamified Productivity Cards
+### 🔹 LFRAJA – Browse Movies & TV Series
 <p align="center">
   <img src="https://raw.githubusercontent.com/bougairsaid8/DailyQuest/main/preview.png" width="600" alt="Daily Quest preview"/>
 </p>
 
-📌 *React + Tailwind | Product Design | UX/UI*  
-🔗 **Repo:** https://github.com/bougairsaid8/DailyQuest  
-
----
-
-### 🔹 Student Support Cards – OFPPT Project
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bougairsaid8/StudentSupportCards/main/preview.png" width="600" alt="Student Cards preview"/>
-</p>
-
-📌 *Design + PDF System + Business Model*  
-🔗 **Repo:** https://github.com/bougairsaid8/StudentSupportCards
-
----
-
-### 🔹 React Movies – Modern UI + API Integration
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bougairsaid8/React-Movies/main/preview.png" width="600" alt="React Movies preview"/>
-</p>
-
-📌 *React + Fetch API + Responsive UI*  
-🔗 **Repo:** https://github.com/bougairsaid8/React-Movies
-
----
-
-### 🔹 Tip Calculator
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bougairsaid8/TipCalculator01/main/preview.png" width="600" alt="Tip Calculator preview"/>
-</p>
-
-📌 *JavaScript | Clean UI*  
-🔗 **Repo:** https://github.com/bougairsaid8/TipCalculator01
-
----
-
-### 🔹 TP Git Projects
-📌 Git / GitHub / Branching / Merge practice  
-🔗 **Repos:** https://github.com/bougairsaid8?tab=repositories
+📌 *React + Vite| Product Design | UX/UI | TMDB API*  
+🔗 **Repo:** https://github.com/bougairsaid8/LFRAJA  
+🌐 **View:** https://bougairsaid8.github.io/LFRAJA/
 
 ---
 
