@@ -22,11 +22,11 @@
 ### 🌐 Connect With Me
 <p align="left">
 
-<a href="https://linkedin.com/in/hh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://twitter.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://instagram.com/hh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://facebook.com/hh" target="_blank"><img src="https://cdn.simpleicons.org/facebook" height="40"/></a>
-<a href="https://leetcode.com/hh" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="40"/></a>
+<a href="https://linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.instagram.com/said_bougair_1/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=100089195947967" target="_blank"><img src="https://cdn.simpleicons.org/facebook" height="40"/></a>
+<a href="https://leetcode.com/u/Said2003/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="40"/></a>
 
 </p>
 
