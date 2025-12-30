@@ -47,9 +47,8 @@
   <img src="./Media/LFRAJA.png" width="600" alt="LFRAJA preview"/>
 </p>
 
-📌 *React + Vite| Product Design | UX/UI | TMDB API*  
-🔗 **Repo:** https://github.com/bougairsaid8/LFRAJA  
-🌐 **View:** https://bougairsaid8.github.io/LFRAJA/
+📌 *React + Vite | Product Design | UX/UI | TMDB API*  
+🔗 [Repo](https://github.com/bougairsaid8/LFRAJA) · 🌐 [Live Demo](https://bougairsaid8.github.io/LFRAJA/)
 ---
 
 ### 🔹 SAIDSHOP – Modern E-commerce Website
@@ -57,9 +56,8 @@
   <img src="./Media/SAIDSHOP.png" width="600" alt="SAIDSHOP preview"/> 
 </p>
 
-📌 *React + Vite| E-commerce UI | Product Filtering | UX/UI*  
-🔗 **Repo:** https://github.com/bougairsaid8/SAIDSHOP  
-🌐 **View:** https://bougairsaid8.github.io/SAIDSHOP/
+📌 *React + Vite | E-commerce UI | Product Filtering | UX/UI*  
+🔗 [Repo](https://github.com/bougairsaid8/SAIDSHOP) · 🌐 [Live Demo](https://bougairsaid8.github.io/SAIDSHOP/)
 ---
 
 ### 🧩 Fun Zone
