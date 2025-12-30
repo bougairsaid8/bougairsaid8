@@ -57,8 +57,8 @@
   <img src="./Media/SAIDSHOP.png" width="600" alt="SAIDSHOP preview"/> 
 </p>
 
-📌 *React + Vite| E-commerce UI | Product Filtering | UX/UI*
-🔗 **Repo:** https://github.com/bougairsaid8/SAIDSHOP
+📌 *React + Vite| E-commerce UI | Product Filtering | UX/UI*  
+🔗 **Repo:** https://github.com/bougairsaid8/SAIDSHOP  
 🌐 **View:** https://bougairsaid8.github.io/SAIDSHOP/
 ---
 
